@@ -8,8 +8,7 @@ AirBell is a digital platform that enables individuals to rent out their homes o
 ## Demo
 <br />
 
- [![AirBell](https://github.com/MohamedAbirou/AirBell/assets/109366637/4a2edc0c-7142-46f2-bbbc-c430ab69f567)]
-coming soon. (fixing some bugs :))
+[![AirBell](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/7d08ba12-808c-447b-b251-3e3f388ea7be)](https://airbell.vercel.app/)
 
 <br />
 <br />
